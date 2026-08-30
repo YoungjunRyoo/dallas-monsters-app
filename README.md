@@ -5,19 +5,19 @@ A cross-platform mobile application built for the **Dallas Monsters amateur base
 The app provides separate workflows for **Managers and Players** and uses Firebase to synchronize team and game data across devices.
 
 ---
+## Live Demo
+
+https://github.com/user-attachments/assets/bcd08441-1517-4ad9-b546-1c8d9f5719d9
 
 ## Screenshots
 
-<p align="center">
+
   <img src="https://github.com/user-attachments/assets/041dd651-d1c9-4dd4-a308-ed7a7778c060" width="220" />
   <img src="https://github.com/user-attachments/assets/5b7afe08-2619-47b1-88a4-b01a3341eaa6" width="220" />
   <img src="https://github.com/user-attachments/assets/da36bb37-61e4-4cc9-bda0-b5385ab1c42a" width="220" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/551298a3-e245-4cab-aecd-d68c33304e7d" width="220" />
   <img src="https://github.com/user-attachments/assets/97303d20-f457-4613-afed-f8d9643a3cf6" width="220" />
-</p>
+
 
 ---
 
