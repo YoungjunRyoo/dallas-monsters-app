@@ -21,7 +21,7 @@ Add your screenshots here:
 <img width="585" height="1266" alt="IMG_8212 2" src="https://github.com/user-attachments/assets/da36bb37-61e4-4cc9-bda0-b5385ab1c42a" />
 <img width="585" height="1266" alt="IMG_8213 2" src="https://github.com/user-attachments/assets/551298a3-e245-4cab-aecd-d68c33304e7d" />
 <img width="585" height="1266" alt="IMG_8214 2" src="https://github.com/user-attachments/assets/97303d20-f457-4613-afed-f8d9643a3cf6" />
-```
+
 Key Features
 Authentication & Role-Based Access
 Email/password authentication using Firebase Authentication
