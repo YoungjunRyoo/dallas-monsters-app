@@ -15,22 +15,36 @@ https://github.com/user-attachments/assets/47ab31d0-008e-4b0b-8c8a-ac37880975d9
 
 Add your screenshots here:
 
-```md
-<img width="585" height="1266" alt="IMG_8215 2" src="https://github.com/user-attachments/assets/041dd651-d1c9-44d4-a308-ed7a7778c060" />
-<img width="585" height="1266" alt="IMG_8211 2" src="https://github.com/user-attachments/assets/5b7afe08-2619-47b1-88a4-b01a3341eaa6" />
-<img width="585" height="1266" alt="IMG_8212 2" src="https://github.com/user-attachments/assets/da36bb37-61e4-4cc9-bda0-b5385ab1c42a" />
-<img width="585" height="1266" alt="IMG_8213 2" src="https://github.com/user-attachments/assets/551298a3-e245-4cab-aecd-d68c33304e7d" />
-<img width="585" height="1266" alt="IMG_8214 2" src="https://github.com/user-attachments/assets/97303d20-f457-4613-afed-f8d9643a3cf6" />
 
-Key Features
-Authentication & Role-Based Access
-Email/password authentication using Firebase Authentication
-Separate workflows for Managers and Players
-New players register with their name and jersey number
-New accounts remain in a pending state until approved by a manager
-Managers can approve or deactivate team members
-Authentication sessions persist across app restarts using AsyncStorage
-Real-Time Data Synchronization
+이렇게 바꿔:
+
+```html
+### Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/041dd651-d1c9-4dd4-a308-ed7a7778c060" width="220" />
+  <img src="https://github.com/user-attachments/assets/5b7afe08-2619-47b1-88a4-b01a3341eaa6" width="220" />
+  <img src="https://github.com/user-attachments/assets/da36bb37-61e4-4cc9-bda0-b5385ab1c42a" width="220" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/551298a3-e245-4cab-aecd-d68c33304e7d" width="220" />
+  <img src="https://github.com/user-attachments/assets/97303d20-f457-4613-afed-f8d9643a3cf6" width="220" />
+</p>
+
+---
+
+## Key Features
+
+### Authentication & Role-Based Access
+
+- Email/password authentication using **Firebase Authentication**
+- Separate workflows for **Managers** and **Players**
+- New players register with their name and jersey number
+- New accounts remain in a `pending` state until approved by a manager
+- Managers can approve or deactivate team members
+- Authentication sessions persist across app restarts using AsyncStorage
+- Real-Time Data Synchronization
 
 The app uses Cloud Firestore real-time listeners to synchronize team data across connected clients.
 
